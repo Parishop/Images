@@ -1,7 +1,6 @@
 {
     "name": "parishop/images",
     "description": "Generate Thumb Images",
-    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
