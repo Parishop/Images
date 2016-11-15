@@ -1,0 +1,23 @@
+{
+    "name": "parishop/images",
+    "description": "Generate Thumb Images",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vadim Meling",
+            "email": "vadim@meling.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Parishop\\": "src/Parishop"
+        }
+    },
+    "require": {
+        "phpixie/template": "~3.0",
+        "phpixie/config": "~3.0",
+        "phpixie/image": "~3.0"
+    }
+}
+
